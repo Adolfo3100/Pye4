@@ -1,3 +1,6 @@
+I was not able to upload two of the sql datasets because they are bigger than 25 mb 
+But everything else is in here
+
 Analyzing an EMAIL Archive from gmane and vizualizing the data
 using the D3 JavaScript library
 
